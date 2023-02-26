@@ -3,4 +3,4 @@
 ![imagem](/imagens/Logo-Sql-Especialist.webp)
 
 ## Diagrama de entidade e relacionamento - Ordem de Serviço
-![imagem](/imagens/Logo-Sql-Especialist.webp)
+![imagem](https://github.com/agsilvamhm/SqlDatabaseSpecialist/blob/main/imagens/DiagramaOrdemServico.png)
